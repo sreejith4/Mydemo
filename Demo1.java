@@ -1,9 +1,6 @@
-class Demo1{
+class Demo1
+{
 	public static void main(String args[]){
-	System.out.println("This is a java demo file");
+		System.out.println("This is a java class");
 	}
 }
-
-
-
-
